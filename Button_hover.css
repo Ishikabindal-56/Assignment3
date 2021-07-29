@@ -13,7 +13,7 @@ button{
     height: 70px;
     width: 150px;
     font-size: 1.5rem;
-    transition: 1.5s;
+    transition: all 1.5s;
 }
 button:hover{
     color:cornsilk;
